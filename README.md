@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi everyone
 
-<!--
-**federeinoso/federeinoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm looking forward to my first job as a react developer. 
 
-Here are some ideas to get you started:
+Here you can find my repositories with the mini projects that I am doing during my learning. 
+Lucky for you, all are deployed to watch them online. I hope you like them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+### Lenguages and tools
+
+<img src="https://image.flaticon.com/icons/png/512/174/174854.png" width="30"> <img src="https://image.flaticon.com/icons/png/512/732/732190.png" width="30"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="30"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" width="30">
+
