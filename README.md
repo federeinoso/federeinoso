@@ -1,4 +1,4 @@
-## Hi everyone 👋
+# Hi everyone 👋
 
 I'm looking forward to my first job as a React Developer. 
 
@@ -8,7 +8,7 @@ Lucky for you, all are deployed to watch them online. I hope you like them.
 
 
 
-### Lenguages and tools
+## Lenguages and tools
 
 <img src="https://image.flaticon.com/icons/png/512/174/174854.png" width="30"> <img src="https://image.flaticon.com/icons/png/512/732/732190.png" width="30"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="30"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" width="30">
 
