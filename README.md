@@ -1,4 +1,4 @@
-## Hi everyone
+## Hi everyone 👋
 
 I'm looking forward to my first job as a React Developer. 
 
