@@ -1,6 +1,6 @@
 # Hi everyone 👋
 
-I'm looking forward to my first job as a React Developer. 
+I'm looking forward to my first job as React Developer. 
 
 Here you can find my repositories with the mini projects that I am doing during my learning. 
 Lucky for you, all are deployed to check them online. I hope you like them.
